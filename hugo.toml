@@ -1,0 +1,9 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'ru-ru'
+title = 'Резюме'
+theme = 'ananke'
+ 
+[[menu.main]]
+    name = "Резюме"
+    url = "/resume/"
+    weight = 1
